@@ -1,0 +1,16 @@
+{
+  "name": "pro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dateRelated.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.20",
+    "prompt-sync": "^4.2.0"
+  }
+}
