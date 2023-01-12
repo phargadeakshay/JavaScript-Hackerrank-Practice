@@ -207,6 +207,7 @@ function jimOrders(orders) {
 let arr =[[8,1],[4,2],[5,6],[3,1],[4,3]]
 console.log(jimOrders(arr))
 
+
 // let a = {"a":1,"c":1,"a":6,1:3,4:"ba"}
 // let a = [5,4,3,2,8,7,6,5,9]
 // for(let i in a ){
