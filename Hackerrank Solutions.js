@@ -193,8 +193,9 @@ function jimOrders(orders) {
         reciveArr.push([elm, obj[elm]]);
         // console.log(elm,obj[elm],reciveArr,typeof(elm))
     }
-    debugger;
+    console.log(reciveArr)
     reciveArr.sort((a, b) => a[1] - b[1]);
+    console.log(reciveArr)
     for (let i = 0; i < reciveArr.length; i++) {
         reciveArr[i] = reciveArr[i][0]
         console.log(typeof(reciveArr[i][0]),i)
